@@ -1,6 +1,5 @@
-import React, {useState, useEffect} from 'react'
-import {CheckBox, StyleSheet, ScrollView, View, TouchableOpacity, Text } from 'react-native'
-import RadioForm, {RadioButton, RadioButtonInput, RadioButtonLabel} from 'react-native-simple-radio-button';
+import React from 'react'
+import { StyleSheet, View, TouchableOpacity, Text } from 'react-native'
 
 
 function shuffle(array) {
